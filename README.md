@@ -1,3 +1,6 @@
+<p><img src="https://github-readme-stats.vercel.app/api?username=yogiprsetya&show_icons=true&theme=onedark&locale=en" alt="yogiprsetya" /></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogiprsetya" alt="yogiprsetya" /></a></p>
+
 ### Hi there 👋
 
 Inspired front-end engineer with 4 years in of practical experience in web based application environment with willingness to learn and master software agile development. Web components specialist.
@@ -6,10 +9,6 @@ Inspired front-end engineer with 4 years in of practical experience in web based
 - 👯 I’m looking to collaborate on freelance job
 - 💬 Ask me about enything
 - 📫 How to reach me: yogiprsetya@gmail.com
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=yogiprsetya&show_icons=true&theme=onedark&locale=en" alt="yogiprsetya" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yogiprsetya" alt="yogiprsetya" /></a></p>
-
 
 ### Languages
 
@@ -23,7 +22,7 @@ Inspired front-end engineer with 4 years in of practical experience in web based
   <img src="https://img.shields.io/badge/-Vue-000?&logo=vue.js&logoColor=3fb27f" alt="yogiprsetya" />
 </p>
 
-### Connect with me:
+### Me on internet
 
 <p align="left">
 <a href="https://www.linkedin.com/in/yogiprasetya" target="blank">
@@ -31,5 +30,8 @@ Inspired front-end engineer with 4 years in of practical experience in web based
 </a>
 <a href="https://dribbble.com/yogiprasetya" target="blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="yogiprasetya" height="30" width="40" />
+</a>
+<a href="https://medium.com/@yogiprsetya" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="yogiprasetya" height="30" width="40" />
 </a>
 </p>
