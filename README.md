@@ -25,13 +25,13 @@ Inspired front-end engineer with 4 years in of practical experience in web based
 ### Me on internet
 
 <p align="left">
-<a href="https://www.linkedin.com/in/yogiprasetya" target="blank">
+<a href="https://www.linkedin.com/in/yogiprasetya" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yogiprasetya" height="30" width="40" />
 </a>
-<a href="https://dribbble.com/yogiprasetya" target="blank">
+<a href="https://dribbble.com/yogiprasetya" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="yogiprasetya" height="30" width="40" />
 </a>
-<a href="https://medium.com/@yogiprsetya" target="blank">
+<a href="https://medium.com/@yogiprsetya" target="_blank">
   <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="yogiprasetya" height="30" width="40" />
 </a>
 </p>
