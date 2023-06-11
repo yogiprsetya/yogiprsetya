@@ -8,7 +8,7 @@ Inspired front-end engineer with 4 years in of practical experience in web based
 - 🔭 I’m currently working on smarteye.id
 - 👯 I’m looking to collaborate on freelance job
 - 💬 Ask me about enything
-- 📫 How to reach me: yogiprsetya@gmail.com
+- 📫 How to reach me: hello@yogiprasetya.com
 
 ### Languages
 
