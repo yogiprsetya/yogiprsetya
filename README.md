@@ -5,7 +5,7 @@ Inspired front-end engineer with 4 years in of practical experience in web based
 - 🔭 I’m currently working on padiumkm.id
 - 👯 I’m looking to collaborate on freelance job
 - 💬 Ask me about anything
-- 📫 How to reach me: hello@yogiprasetya.com
+- 📫 How to reach me: yogiprsetya@gmail.com
 
 ### Languages
 
