@@ -14,7 +14,7 @@ Jakarta, Indonesia · Building distributed systems, developer tools, and design 
 
 I'm a software engineer with a track record of building production systems that handle real scale, from cutting distributed infrastructure costs by 99.5%, to leading frontend teams through platform integrations, to designing developer tooling used by internal teams. I care about clean architecture, developer experience, and systems that are easy to reason about under load.
 
-Currently focused on full-stack and platform engineering, with deep experience across React/Next.js on the frontend and Node/Nest.js/Go on the backend.
+Currently focused on full-stack and platform engineering, with deep experience across React/Next.js on the frontend and Node/Nest.js on the backend.
 
 ---
 
